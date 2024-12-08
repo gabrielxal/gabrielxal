@@ -8,7 +8,7 @@ Sou estudante universitário com um forte interesse em **análise de dados** e *
 
 - **Linguagens**: Python, SQL, Java
 - **Frameworks**: Pandas, NumPy, SciPy, Matplotlib
-- **Ferramentas de Visualização**: Power BI, Matplotlib
+- **Ferramentas de Visualização**: Power BI, Matplotlib, Looker Studio
 - **Bancos de Dados**: MySQL, PostgreSQL
 
 ## 📈 Status de Projeto
