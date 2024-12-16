@@ -27,7 +27,7 @@ Sou estudante universitário com um forte interesse em **análise de dados**, te
 
 **Welcome to my profile!**  👋🏻
 
-I am a university student with a strong interest in **data analysis** and **data science**, and I have developed skills in tools like **Power BI**, **Excel**, **Python**, **SQL**, and **statistical analysis**. Throughout my academic journey, I have been enhancing my skills in research, communication, and data presentation, always aiming to turn data into valuable insights.
+I am a university student with a strong interest in **data analysis**, i have developed skills in tools like **Power BI**, **Excel**, **Python**, **SQL**, and **statistical analysis**. Throughout my academic journey, I have been enhancing my skills in research, communication, and data presentation, always aiming to turn data into valuable insights.
 
 ## 🛠️ Technologies I use
 
