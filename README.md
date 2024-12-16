@@ -2,7 +2,7 @@
 
 **Bem-vindo ao meu perfil!**  👋🏻
 
-Sou estudante universitário com um forte interesse em **análise de dados** e **ciências de dados**, e tenho desenvolvido competências em ferramentas como **Power BI**, **Excel**, **Python**, **SQL** e **análise estatística**. Ao longo da minha jornada acadêmica, tenho aprimorado minhas habilidades em pesquisa, comunicação e apresentação de dados, sempre com o objetivo de transformar dados em informações valiosas.
+Sou estudante universitário com um forte interesse em **análise de dados**, tenho desenvolvido competências em ferramentas como **Power BI**, **Excel**, **Python**, **SQL** e **análise estatística**. Ao longo da minha jornada acadêmica, tenho aprimorado minhas habilidades em pesquisa, comunicação e apresentação de dados, sempre com o objetivo de transformar dados em informações valiosas.
 
 ## 🛠️ Tecnologias que eu utilizo
 
