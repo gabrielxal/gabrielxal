@@ -33,7 +33,7 @@ I am a university student with a strong interest in **data analysis**, i have de
 
 ## 🛠️ Technologies I use
 
-- **Languages**: Python, SQL, Java
+- **Languages**: Python, SQL, Java, R
 - **Frameworks**: Pandas, NumPy, SciPy, Matplotlib
 - **Visualization Tools**: Power BI, Matplotlib
 - **Databases**: MySQL, PostgreSQL
