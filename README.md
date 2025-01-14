@@ -2,12 +2,14 @@
 
 **Bem-vindo ao meu perfil!**  👋🏻
 
-Sou estudante universitário com um forte interesse em **análise de dados**, tenho desenvolvido competências em ferramentas como **Power BI**, **Excel**, **Python**, **SQL** e **análise estatística**. Ao longo da minha jornada acadêmica, tenho aprimorado minhas habilidades em pesquisa, comunicação e apresentação de dados, sempre com o objetivo de transformar dados em informações valiosas.
+Estudante de Engenharia de Produção com experiência em análise de dados, especialmente utilizando Python, SQL, Power BI. Atualmente, é bolsista do PRH-ANP 55.1, cuja pesquisa busca mapear o potencial da produção de biochar no Semiárido Brasileiro, tecnologia de remoção de dióxido de carbono da atmosfera promissora para a região.
+"Decida aonde quer chegar e não pare até conseguir"
+
 
 ## 🛠️ Tecnologias que eu utilizo
 
-- **Linguagens**: Python, SQL, Java
-- **Frameworks**: Pandas, NumPy, SciPy, Matplotlib
+- **Linguagens**: Python, SQL, Java, R
+- **Frameworks**: Pandas, NumPy, SciPy, Matplotlib, Django, Sparks
 - **Ferramentas de Visualização**: Power BI, Matplotlib, Looker Studio
 - **Bancos de Dados**: MySQL, PostgreSQL
 
