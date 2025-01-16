@@ -15,8 +15,8 @@ Estudante de Engenharia de Produção com experiência em análise de dados, esp
 
 ## 📈 Status de Projeto
 
-- **Atualmente trabalhando**: Projeto de Pesquisa para ANP PRH - 55.1 🚧  
-- **Aprimorando habilidades**: Python, SQL 📚
+- **Atualmente trabalhando**: Projeto de Pesquisa para ANP PRH - 55.1 e Pesquisador do Grupo NPCO2 
+- **Aprimorando habilidades**: Python, SQL e Power BI
 
 ## 📫 Como Entrar em Contato
 
