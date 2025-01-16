@@ -2,7 +2,7 @@
 
 **Bem-vindo ao meu perfil!**  👋🏻
 
-Estudante de Engenharia de Produção com experiência em análise de dados, especialmente utilizando Python, SQL, Power BI. Atualmente, é bolsista do PRH-ANP 55.1, cuja pesquisa busca mapear o potencial da produção de biochar no Semiárido Brasileiro, tecnologia de remoção de dióxido de carbono da atmosfera promissora para a região.
+Estudante de Engenharia de Produção com experiência em análise de dados, especialmente utilizando Python, SQL, Power BI. Atualmente  bolsista do PRH-ANP 55.1, cuja pesquisa busca mapear o potencial da produção de biochar no Semiárido Brasileiro, tecnologia de remoção de dióxido de carbono da atmosfera promissora para a região.
 "Decida aonde quer chegar e não pare até conseguir"
 
 
