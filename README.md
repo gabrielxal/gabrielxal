@@ -30,6 +30,27 @@ Estudante de Engenharia de Produção com experiência em análise de dados, esp
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) 
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=lookerstudio&logoColor=white)
 
+# 💡 Habilidades:
+🎯 Engenharia de Produção:
+- Gestão de Processos
+- Planejamento e Controle de Operações
+- Pesquisa Operacional
+  
+💾 Banco de Dados: 
+- Manipulação de Dados (DML)
+- Modelagem e Definição de Esquemas (DDL)
+- Controle de Acesso (DCL)
+  
+📊 Modelagem Estatística:
+- SciPy
+- SARIMAX
+- Simulações de Monte Carlo
+  
+🤝 Soft Skills:
+- Comunicação Eficaz
+- Liderança
+- Resolução de Problemas
+- Apresentação
 ---
 
 ## Hello! Nice to meet you, my name is Gabriel Almeida Lima 🤝🏻
@@ -62,3 +83,28 @@ Production Engineering student with experience in data analysis, especially usin
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) 
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=lookerstudio&logoColor=white)
 
+💡 Skills:
+🎯 Production Engineering:
+
+- Process Management
+- Planning and Operations Control
+- Operational Research
+
+💾 Databases:
+
+- Data Manipulation (DML)
+- Schema Modeling and Definition (DDL)
+- Access Control (DCL)
+
+📊 Statistical Modeling:
+
+- SciPy
+- SARIMAX
+- Monte Carlo Simulations
+
+🤝 Soft Skills:
+
+- Effective Communication
+- Leadership
+- Problem-Solving
+- Presentation
